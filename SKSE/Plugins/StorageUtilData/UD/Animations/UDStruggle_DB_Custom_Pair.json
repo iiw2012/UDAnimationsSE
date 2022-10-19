@@ -68,7 +68,15 @@
 			}
 		], 
 		"zad_DeviousBra" : [
-			
+			{
+				"animation" : "UD_Struggle_PetSuit_Pair07_", 
+				"reqConstraintsA1" : 64, 
+				"optConstraintsA1" : 256, 
+				"reqConstraintsA2" : 1, 
+				"optConstraintsA2" : 266, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}
 		], 
 		"zad_DeviousCollar" : [
 			{
@@ -388,6 +396,14 @@
 				"optConstraintsA2" : 266, 
 				"lewd" : 0, 
 				"aggressive" : 0
+			}, {
+				"animation" : "UD_Struggle_PetSuit_Pair07_", 
+				"reqConstraintsA1" : 64, 
+				"optConstraintsA1" : 256, 
+				"reqConstraintsA2" : 1, 
+				"optConstraintsA2" : 266, 
+				"lewd" : 0, 
+				"aggressive" : 0
 			}
 		], 
 		"zad_DeviousBlindfold" : [
@@ -418,7 +434,15 @@
 			}
 		], 
 		"zad_DeviousPiercingsNipple" : [
-			
+			{
+				"animation" : "UD_Struggle_PetSuit_Pair07_", 
+				"reqConstraintsA1" : 64, 
+				"optConstraintsA1" : 256, 
+				"reqConstraintsA2" : 1, 
+				"optConstraintsA2" : 266, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}
 		], 
 		"zad_DeviousPiercingsVaginal" : [
 			{
@@ -501,6 +525,14 @@
 				"aggressive" : 0
 			}, {
 				"animation" : "UD_Struggle_PetSuit_Pair06Hob_", 
+				"reqConstraintsA1" : 64, 
+				"optConstraintsA1" : 256, 
+				"reqConstraintsA2" : 1, 
+				"optConstraintsA2" : 266, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}, {
+				"animation" : "UD_Struggle_PetSuit_Pair07_", 
 				"reqConstraintsA1" : 64, 
 				"optConstraintsA1" : 256, 
 				"reqConstraintsA2" : 1, 
