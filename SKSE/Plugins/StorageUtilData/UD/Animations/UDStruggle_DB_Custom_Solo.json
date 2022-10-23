@@ -4,290 +4,362 @@
 	"solo" : {
 		"zad_DeviousBoots" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousPlug" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousBelt" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousBra" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousCollar" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousArmCuffs" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousLegCuffs" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousArmbinder" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousArmbinderElbow" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousHobbleSkirt" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousHobbleSkirtRelaxed" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousAnkleShackles" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousStraitJacket" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousCuffsFront" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousPetSuit" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousYoke" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousYokeBB" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousCorset" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousClamps" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousGloves" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousHood" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousElbowTie" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousGag" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousGagLarge" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousGagPanel" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousPlugVaginal" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousPlugAnal" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousHarness" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousBlindfold" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousPiercingsNipple" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousPiercingsVaginal" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousBondageMittens" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"zad_DeviousSuit" : [
 			{
-				"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Struggle_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"horny" : [
 			{
-				"animation" : "UD_Horny_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Horny_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"edged" : [
 			{
-				"animation" : "UD_Horny_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Horny_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		], 
 		"orgasm" : [
 			{
-				"animation" : "UD_Orgasm_PetSuit_Solo01_A1", 
-				"reqConstraintsA1" : 64, 
-				"optConstraintsA1" : 256, 
-				"lewd" : 0, 
+				"A1" : {
+					"animation" : "UD_Orgasm_PetSuit_Solo01_A1", 
+					"reqConstraints" : 64, 
+					"optConstraints" : 256
+				}, 
+				"lewd" : 2 
 			}
 		]
 	}
