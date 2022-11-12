@@ -265,6 +265,50 @@
 				"isSequence" : false, 
 				"lewd" : 0, 
 				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Waist_Pair01_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01BBY_A1", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01FC_A1", 
+						"reqConstraints" : 8, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 259
+					}
+				 ], 
+				"A2" : {
+						"animation" : "UD_Struggle_Waist_Pair01_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 256
+					}, 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
 			}
 		], 
 		"zad_DeviousBra" : [
@@ -348,10 +392,22 @@
 						"animation" : "UD_Struggle_Armb_Pair02A_A1", 
 						"reqConstraints" : 512, 
 						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair02AH_A1", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
 					}
 				 ], 
 				"A2" : [
-					
+					{
+						"animation" : "UD_Struggle_Armb_Pair02_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair02H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}
 				 ], 
 				"isSequence" : false, 
 				"lewd" : 0, 
@@ -388,10 +444,22 @@
 						"animation" : "UD_Struggle_Armb_Pair02E_A1", 
 						"reqConstraints" : 128, 
 						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair02EH_A1", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
 					}
 				 ], 
 				"A2" : [
-					
+					{
+						"animation" : "UD_Struggle_Armb_Pair02_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair02H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}
 				 ], 
 				"isSequence" : false, 
 				"lewd" : 0, 
@@ -554,10 +622,22 @@
 						"animation" : "UD_Struggle_Armb_Pair02A_A1", 
 						"reqConstraints" : 16, 
 						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair02AH_A1", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
 					}
 				 ], 
 				"A2" : [
-					
+					{
+						"animation" : "UD_Struggle_Armb_Pair02_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair02H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}
 				 ], 
 				"isSequence" : false, 
 				"lewd" : 0, 
@@ -597,10 +677,22 @@
 						"animation" : "UD_Struggle_Armb_Pair02E_A1", 
 						"reqConstraints" : 128, 
 						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair02EH_A1", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
 					}
 				 ], 
 				"A2" : [
-					
+					{
+						"animation" : "UD_Struggle_Armb_Pair02_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair02H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}
 				 ], 
 				"isSequence" : false, 
 				"lewd" : 0, 
@@ -608,10 +700,98 @@
 			}
 		], 
 		"zad_DeviousHobbleSkirt" : [
-			
+			{
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Waist_Pair01_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01BBY_A1", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01FC_A1", 
+						"reqConstraints" : 8, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 259
+					}
+				 ], 
+				"A2" : {
+						"animation" : "UD_Struggle_Waist_Pair01_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 256
+					}, 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}
 		], 
 		"zad_DeviousHobbleSkirtRelaxed" : [
-			
+			{
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Waist_Pair01_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01BBY_A1", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01FC_A1", 
+						"reqConstraints" : 8, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 259
+					}
+				 ], 
+				"A2" : {
+						"animation" : "UD_Struggle_Waist_Pair01_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 256
+					}, 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}
 		], 
 		"zad_DeviousAnkleShackles" : [
 			{
@@ -668,6 +848,50 @@
 						"optConstraints" : 258
 					}
 				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Waist_Pair01_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01BBY_A1", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01FC_A1", 
+						"reqConstraints" : 8, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 259
+					}
+				 ], 
+				"A2" : {
+						"animation" : "UD_Struggle_Waist_Pair01_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 256
+					}, 
 				"isSequence" : false, 
 				"lewd" : 0, 
 				"aggressive" : 0
@@ -768,6 +992,50 @@
 				"isSequence" : false, 
 				"lewd" : 0, 
 				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Waist_Pair01_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01BBY_A1", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01FC_A1", 
+						"reqConstraints" : 8, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 259
+					}
+				 ], 
+				"A2" : {
+						"animation" : "UD_Struggle_Waist_Pair01_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 256
+					}, 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
 			}
 		], 
 		"zad_DeviousClamps" : [
@@ -820,10 +1088,22 @@
 						"animation" : "UD_Struggle_Armb_Pair02A_A1", 
 						"reqConstraints" : 512, 
 						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair02AH_A1", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
 					}
 				 ], 
 				"A2" : [
-					
+					{
+						"animation" : "UD_Struggle_Armb_Pair02_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair02H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}
 				 ], 
 				"isSequence" : false, 
 				"lewd" : 0, 
@@ -860,10 +1140,22 @@
 						"animation" : "UD_Struggle_Armb_Pair02E_A1", 
 						"reqConstraints" : 128, 
 						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair02EH_A1", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
 					}
 				 ], 
 				"A2" : [
-					
+					{
+						"animation" : "UD_Struggle_Armb_Pair02_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair02H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}
 				 ], 
 				"isSequence" : false, 
 				"lewd" : 0, 
@@ -1658,6 +1950,50 @@
 				"isSequence" : false, 
 				"lewd" : 0, 
 				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Waist_Pair01_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01BBY_A1", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01FC_A1", 
+						"reqConstraints" : 8, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 259
+					}
+				 ], 
+				"A2" : {
+						"animation" : "UD_Struggle_Waist_Pair01_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 256
+					}, 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
 			}
 		], 
 		"zad_DeviousBlindfold" : [
@@ -1928,10 +2264,22 @@
 						"animation" : "UD_Struggle_Armb_Pair02A_A1", 
 						"reqConstraints" : 512, 
 						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair02AH_A1", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
 					}
 				 ], 
 				"A2" : [
-					
+					{
+						"animation" : "UD_Struggle_Armb_Pair02_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair02H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}
 				 ], 
 				"isSequence" : false, 
 				"lewd" : 0, 
@@ -1968,10 +2316,22 @@
 						"animation" : "UD_Struggle_Armb_Pair02E_A1", 
 						"reqConstraints" : 128, 
 						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair02EH_A1", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
 					}
 				 ], 
 				"A2" : [
-					
+					{
+						"animation" : "UD_Struggle_Armb_Pair02_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair02H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}
 				 ], 
 				"isSequence" : false, 
 				"lewd" : 0, 
@@ -2189,11 +2549,67 @@
 						"animation" : "UD_Struggle_Arm_Pair01_A1", 
 						"reqConstraints" : 0, 
 						"optConstraints" : 266
+					}, {
+						"animation" : "UD_Struggle_Arm_Pair01H_A1", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 266
 					}
 				 ], 
 				"A2" : [
-					
+					{
+						"animation" : "UD_Struggle_Arm_Pair01_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Arm_Pair01H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}
 				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Waist_Pair01_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01A_A1", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01BBY_A1", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01FC_A1", 
+						"reqConstraints" : 8, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 259
+					}, {
+						"animation" : "UD_Struggle_Waist_Pair01E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 259
+					}
+				 ], 
+				"A2" : {
+						"animation" : "UD_Struggle_Waist_Pair01_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 256
+					}, 
 				"isSequence" : false, 
 				"lewd" : 0, 
 				"aggressive" : 0
