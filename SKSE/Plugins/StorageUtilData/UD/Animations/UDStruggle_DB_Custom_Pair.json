@@ -668,6 +668,64 @@
 				"isSequence" : false, 
 				"lewd" : 0, 
 				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Armb_Pair03A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A1", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03EH_A1", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A1", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Armb_Pair03A_A2", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A2", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03E_A2", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03EH_A2", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03A_A2", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A2", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
 			}
 		], 
 		"zad_DeviousLegCuffs" : [
@@ -820,6 +878,64 @@
 				"isSequence" : false, 
 				"lewd" : 0, 
 				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Armb_Pair03A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A1", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03EH_A1", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A1", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Armb_Pair03A_A2", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A2", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03E_A2", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03EH_A2", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03A_A2", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A2", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
 			}
 		], 
 		"zad_DeviousArmbinderElbow" : [
@@ -869,6 +985,64 @@
 					}, {
 						"animation" : "UD_Struggle_Armb_Pair02H_A2", 
 						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Armb_Pair03A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A1", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03EH_A1", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A1", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Armb_Pair03A_A2", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A2", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03E_A2", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03EH_A2", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03A_A2", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A2", 
+						"reqConstraints" : 129, 
 						"optConstraints" : 258
 					}
 				 ], 
@@ -1552,6 +1726,64 @@
 				"isSequence" : false, 
 				"lewd" : 0, 
 				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Armb_Pair03A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A1", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03EH_A1", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A1", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Armb_Pair03A_A2", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A2", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03E_A2", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03EH_A2", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03A_A2", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A2", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
 			}
 		], 
 		"zad_DeviousHood" : [
@@ -1768,6 +2000,64 @@
 					}, {
 						"animation" : "UD_Struggle_Armb_Pair02H_A2", 
 						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Armb_Pair03A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A1", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03EH_A1", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A1", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Armb_Pair03A_A2", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A2", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03E_A2", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03EH_A2", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03A_A2", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A2", 
+						"reqConstraints" : 129, 
 						"optConstraints" : 258
 					}
 				 ], 
@@ -3002,6 +3292,64 @@
 					}, {
 						"animation" : "UD_Struggle_Arm_Pair01H_A2", 
 						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Armb_Pair03A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A1", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03EH_A1", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A1", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Armb_Pair03A_A2", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A2", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03E_A2", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03EH_A2", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03A_A2", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Armb_Pair03AH_A2", 
+						"reqConstraints" : 129, 
 						"optConstraints" : 258
 					}
 				 ], 
