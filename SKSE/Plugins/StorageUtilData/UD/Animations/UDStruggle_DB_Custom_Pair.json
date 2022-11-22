@@ -593,11 +593,11 @@
 			}, {
 				"A1" : [
 					{
-						"animation" : "UD_Struggle_Armb_Pair02A_A1", 
+						"animation" : "UD_Struggle_Armb_Pair02E_A1", 
 						"reqConstraints" : 32, 
 						"optConstraints" : 258
 					}, {
-						"animation" : "UD_Struggle_Armb_Pair02AH_A1", 
+						"animation" : "UD_Struggle_Armb_Pair02EH_A1", 
 						"reqConstraints" : 33, 
 						"optConstraints" : 258
 					}
@@ -619,11 +619,11 @@
 			}, {
 				"A1" : [
 					{
-						"animation" : "UD_Struggle_Armb_Pair02E_A1", 
+						"animation" : "UD_Struggle_Armb_Pair02A_A1", 
 						"reqConstraints" : 128, 
 						"optConstraints" : 258
 					}, {
-						"animation" : "UD_Struggle_Armb_Pair02EH_A1", 
+						"animation" : "UD_Struggle_Armb_Pair02AH_A1", 
 						"reqConstraints" : 129, 
 						"optConstraints" : 258
 					}
@@ -635,32 +635,6 @@
 						"optConstraints" : 258
 					}, {
 						"animation" : "UD_Struggle_Armb_Pair02H_A2", 
-						"reqConstraints" : 1, 
-						"optConstraints" : 258
-					}
-				 ], 
-				"isSequence" : false, 
-				"lewd" : 0, 
-				"aggressive" : 0
-			}, {
-				"A1" : [
-					{
-						"animation" : "UD_Struggle_Arm_Pair01_A1", 
-						"reqConstraints" : 0, 
-						"optConstraints" : 266
-					}, {
-						"animation" : "UD_Struggle_Arm_Pair01H_A1", 
-						"reqConstraints" : 1, 
-						"optConstraints" : 266
-					}
-				 ], 
-				"A2" : [
-					{
-						"animation" : "UD_Struggle_Arm_Pair01_A2", 
-						"reqConstraints" : 0, 
-						"optConstraints" : 258
-					}, {
-						"animation" : "UD_Struggle_Arm_Pair01H_A2", 
 						"reqConstraints" : 1, 
 						"optConstraints" : 258
 					}
@@ -721,6 +695,66 @@
 						"animation" : "UD_Struggle_Armb_Pair03AH_A2", 
 						"reqConstraints" : 129, 
 						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Arm_Pair02_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Arm_Pair02H_A1", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Arm_Pair02FC_A1", 
+						"reqConstraints" : 8, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Arm_Pair02FCH_A1", 
+						"reqConstraints" : 9, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Arm_Pair02_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Arm_Pair02H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Yoke_Pair01Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Yoke_Pair01YH_A1", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Yoke_Pair01_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 266
+					}, {
+						"animation" : "UD_Struggle_Yoke_Pair01H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 266
 					}
 				 ], 
 				"isSequence" : false, 
@@ -829,32 +863,6 @@
 			{
 				"A1" : [
 					{
-						"animation" : "UD_Struggle_Armb_Pair01_A1", 
-						"reqConstraints" : 0, 
-						"optConstraints" : 306
-					}, {
-						"animation" : "UD_Struggle_Armb_Pair01Hob_A1", 
-						"reqConstraints" : 1, 
-						"optConstraints" : 306
-					}
-				 ], 
-				"A2" : [
-					{
-						"animation" : "UD_Struggle_Armb_Pair01_A2", 
-						"reqConstraints" : 0, 
-						"optConstraints" : 258
-					}, {
-						"animation" : "UD_Struggle_Armb_Pair01Hob_A2", 
-						"reqConstraints" : 1, 
-						"optConstraints" : 258
-					}
-				 ], 
-				"isSequence" : false, 
-				"lewd" : 0, 
-				"aggressive" : 0
-			}, {
-				"A1" : [
-					{
 						"animation" : "UD_Struggle_Armb_Pair02A_A1", 
 						"reqConstraints" : 16, 
 						"optConstraints" : 258
@@ -942,37 +950,11 @@
 			{
 				"A1" : [
 					{
-						"animation" : "UD_Struggle_Armb_Pair01_A1", 
-						"reqConstraints" : 0, 
-						"optConstraints" : 306
-					}, {
-						"animation" : "UD_Struggle_Armb_Pair01Hob_A1", 
-						"reqConstraints" : 1, 
-						"optConstraints" : 306
-					}
-				 ], 
-				"A2" : [
-					{
-						"animation" : "UD_Struggle_Armb_Pair01_A2", 
-						"reqConstraints" : 0, 
-						"optConstraints" : 258
-					}, {
-						"animation" : "UD_Struggle_Armb_Pair01Hob_A2", 
-						"reqConstraints" : 1, 
-						"optConstraints" : 258
-					}
-				 ], 
-				"isSequence" : false, 
-				"lewd" : 0, 
-				"aggressive" : 0
-			}, {
-				"A1" : [
-					{
-						"animation" : "UD_Struggle_Armb_Pair02E_A1", 
+						"animation" : "UD_Struggle_Armb_Pair02A_A1", 
 						"reqConstraints" : 128, 
 						"optConstraints" : 258
 					}, {
-						"animation" : "UD_Struggle_Armb_Pair02EH_A1", 
+						"animation" : "UD_Struggle_Armb_Pair02AH_A1", 
 						"reqConstraints" : 129, 
 						"optConstraints" : 258
 					}
@@ -1263,22 +1245,30 @@
 			{
 				"A1" : [
 					{
-						"animation" : "UD_Struggle_Arm_Pair01_A1", 
+						"animation" : "UD_Struggle_Arm_Pair02_A1", 
 						"reqConstraints" : 0, 
-						"optConstraints" : 266
+						"optConstraints" : 258
 					}, {
-						"animation" : "UD_Struggle_Arm_Pair01H_A1", 
+						"animation" : "UD_Struggle_Arm_Pair02H_A1", 
 						"reqConstraints" : 1, 
-						"optConstraints" : 266
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Arm_Pair02FC_A1", 
+						"reqConstraints" : 8, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Arm_Pair02FCH_A1", 
+						"reqConstraints" : 9, 
+						"optConstraints" : 258
 					}
 				 ], 
 				"A2" : [
 					{
-						"animation" : "UD_Struggle_Arm_Pair01_A2", 
+						"animation" : "UD_Struggle_Arm_Pair02_A2", 
 						"reqConstraints" : 0, 
 						"optConstraints" : 258
 					}, {
-						"animation" : "UD_Struggle_Arm_Pair01H_A2", 
+						"animation" : "UD_Struggle_Arm_Pair02H_A2", 
 						"reqConstraints" : 1, 
 						"optConstraints" : 258
 					}
@@ -1347,6 +1337,32 @@
 						"optConstraints" : 266
 					}, {
 						"animation" : "UD_Struggle_Neck_Pair01H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 266
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Yoke_Pair01Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Yoke_Pair01YH_A1", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Yoke_Pair01_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 266
+					}, {
+						"animation" : "UD_Struggle_Yoke_Pair01H_A2", 
 						"reqConstraints" : 1, 
 						"optConstraints" : 266
 					}
@@ -1651,11 +1667,11 @@
 			}, {
 				"A1" : [
 					{
-						"animation" : "UD_Struggle_Armb_Pair02A_A1", 
+						"animation" : "UD_Struggle_Armb_Pair02E_A1", 
 						"reqConstraints" : 32, 
 						"optConstraints" : 258
 					}, {
-						"animation" : "UD_Struggle_Armb_Pair02AH_A1", 
+						"animation" : "UD_Struggle_Armb_Pair02EH_A1", 
 						"reqConstraints" : 33, 
 						"optConstraints" : 258
 					}
@@ -1677,11 +1693,11 @@
 			}, {
 				"A1" : [
 					{
-						"animation" : "UD_Struggle_Armb_Pair02E_A1", 
+						"animation" : "UD_Struggle_Armb_Pair02A_A1", 
 						"reqConstraints" : 128, 
 						"optConstraints" : 258
 					}, {
-						"animation" : "UD_Struggle_Armb_Pair02EH_A1", 
+						"animation" : "UD_Struggle_Armb_Pair02AH_A1", 
 						"reqConstraints" : 129, 
 						"optConstraints" : 258
 					}
@@ -1693,32 +1709,6 @@
 						"optConstraints" : 258
 					}, {
 						"animation" : "UD_Struggle_Armb_Pair02H_A2", 
-						"reqConstraints" : 1, 
-						"optConstraints" : 258
-					}
-				 ], 
-				"isSequence" : false, 
-				"lewd" : 0, 
-				"aggressive" : 0
-			}, {
-				"A1" : [
-					{
-						"animation" : "UD_Struggle_Arm_Pair01_A1", 
-						"reqConstraints" : 0, 
-						"optConstraints" : 266
-					}, {
-						"animation" : "UD_Struggle_Arm_Pair01H_A1", 
-						"reqConstraints" : 1, 
-						"optConstraints" : 266
-					}
-				 ], 
-				"A2" : [
-					{
-						"animation" : "UD_Struggle_Arm_Pair01_A2", 
-						"reqConstraints" : 0, 
-						"optConstraints" : 258
-					}, {
-						"animation" : "UD_Struggle_Arm_Pair01H_A2", 
 						"reqConstraints" : 1, 
 						"optConstraints" : 258
 					}
@@ -1779,6 +1769,66 @@
 						"animation" : "UD_Struggle_Armb_Pair03AH_A2", 
 						"reqConstraints" : 129, 
 						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Arm_Pair02_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Arm_Pair02H_A1", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Arm_Pair02FC_A1", 
+						"reqConstraints" : 8, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Arm_Pair02FCH_A1", 
+						"reqConstraints" : 9, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Arm_Pair02_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Arm_Pair02H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Yoke_Pair01Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Yoke_Pair01YH_A1", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Yoke_Pair01_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 266
+					}, {
+						"animation" : "UD_Struggle_Yoke_Pair01H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 266
 					}
 				 ], 
 				"isSequence" : false, 
@@ -1983,11 +2033,11 @@
 			{
 				"A1" : [
 					{
-						"animation" : "UD_Struggle_Armb_Pair02A_A1", 
+						"animation" : "UD_Struggle_Armb_Pair02E_A1", 
 						"reqConstraints" : 32, 
 						"optConstraints" : 258
 					}, {
-						"animation" : "UD_Struggle_Armb_Pair02AH_A1", 
+						"animation" : "UD_Struggle_Armb_Pair02EH_A1", 
 						"reqConstraints" : 33, 
 						"optConstraints" : 258
 					}
@@ -3223,11 +3273,11 @@
 			}, {
 				"A1" : [
 					{
-						"animation" : "UD_Struggle_Armb_Pair02A_A1", 
+						"animation" : "UD_Struggle_Armb_Pair02E_A1", 
 						"reqConstraints" : 32, 
 						"optConstraints" : 258
 					}, {
-						"animation" : "UD_Struggle_Armb_Pair02AH_A1", 
+						"animation" : "UD_Struggle_Armb_Pair02EH_A1", 
 						"reqConstraints" : 33, 
 						"optConstraints" : 258
 					}
@@ -3249,11 +3299,11 @@
 			}, {
 				"A1" : [
 					{
-						"animation" : "UD_Struggle_Armb_Pair02E_A1", 
+						"animation" : "UD_Struggle_Armb_Pair02A_A1", 
 						"reqConstraints" : 128, 
 						"optConstraints" : 258
 					}, {
-						"animation" : "UD_Struggle_Armb_Pair02EH_A1", 
+						"animation" : "UD_Struggle_Armb_Pair02AH_A1", 
 						"reqConstraints" : 129, 
 						"optConstraints" : 258
 					}
@@ -3265,32 +3315,6 @@
 						"optConstraints" : 258
 					}, {
 						"animation" : "UD_Struggle_Armb_Pair02H_A2", 
-						"reqConstraints" : 1, 
-						"optConstraints" : 258
-					}
-				 ], 
-				"isSequence" : false, 
-				"lewd" : 0, 
-				"aggressive" : 0
-			}, {
-				"A1" : [
-					{
-						"animation" : "UD_Struggle_Arm_Pair01_A1", 
-						"reqConstraints" : 0, 
-						"optConstraints" : 266
-					}, {
-						"animation" : "UD_Struggle_Arm_Pair01H_A1", 
-						"reqConstraints" : 1, 
-						"optConstraints" : 266
-					}
-				 ], 
-				"A2" : [
-					{
-						"animation" : "UD_Struggle_Arm_Pair01_A2", 
-						"reqConstraints" : 0, 
-						"optConstraints" : 258
-					}, {
-						"animation" : "UD_Struggle_Arm_Pair01H_A2", 
 						"reqConstraints" : 1, 
 						"optConstraints" : 258
 					}
@@ -3351,6 +3375,66 @@
 						"animation" : "UD_Struggle_Armb_Pair03AH_A2", 
 						"reqConstraints" : 129, 
 						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Arm_Pair02_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Arm_Pair02H_A1", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Arm_Pair02FC_A1", 
+						"reqConstraints" : 8, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Arm_Pair02FCH_A1", 
+						"reqConstraints" : 9, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Arm_Pair02_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Arm_Pair02H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Yoke_Pair01Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Yoke_Pair01YH_A1", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Yoke_Pair01_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 266
+					}, {
+						"animation" : "UD_Struggle_Yoke_Pair01H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 266
 					}
 				 ], 
 				"isSequence" : false, 
@@ -3531,32 +3615,6 @@
 					}, {
 						"animation" : "UD_Struggle_Boots_Pair01BBY_A2", 
 						"reqConstraints" : 1024, 
-						"optConstraints" : 258
-					}
-				 ], 
-				"isSequence" : false, 
-				"lewd" : 0, 
-				"aggressive" : 0
-			}, {
-				"A1" : [
-					{
-						"animation" : "UD_Struggle_Arm_Pair01_A1", 
-						"reqConstraints" : 0, 
-						"optConstraints" : 266
-					}, {
-						"animation" : "UD_Struggle_Arm_Pair01H_A1", 
-						"reqConstraints" : 1, 
-						"optConstraints" : 266
-					}
-				 ], 
-				"A2" : [
-					{
-						"animation" : "UD_Struggle_Arm_Pair01_A2", 
-						"reqConstraints" : 0, 
-						"optConstraints" : 258
-					}, {
-						"animation" : "UD_Struggle_Arm_Pair01H_A2", 
-						"reqConstraints" : 1, 
 						"optConstraints" : 258
 					}
 				 ], 
@@ -3780,6 +3838,66 @@
 						"animation" : "UD_Struggle_Chest_Pair02H_A2", 
 						"reqConstraints" : 1, 
 						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Arm_Pair02_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Arm_Pair02H_A1", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Arm_Pair02FC_A1", 
+						"reqConstraints" : 8, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Arm_Pair02FCH_A1", 
+						"reqConstraints" : 9, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Arm_Pair02_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Arm_Pair02H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Yoke_Pair01Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Yoke_Pair01YH_A1", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Yoke_Pair01_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 266
+					}, {
+						"animation" : "UD_Struggle_Yoke_Pair01H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 266
 					}
 				 ], 
 				"isSequence" : false, 
