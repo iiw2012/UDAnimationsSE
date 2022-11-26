@@ -38,6 +38,10 @@
 						"reqConstraints" : 4, 
 						"optConstraints" : 256
 					}, {
+						"animation" : "UD_Struggle_Boots_Pair01_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 256
+					}, {
 						"animation" : "UD_Struggle_Boots_Pair01FC_A1", 
 						"reqConstraints" : 8, 
 						"optConstraints" : 256
@@ -91,6 +95,34 @@
 					}, {
 						"animation" : "UD_Struggle_Boots_Pair01BBY_A2", 
 						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 266
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01YH_A2", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01AH_A2", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01EH_A2", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01AH_A2", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01AH_A2", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01BBYH_A2", 
+						"reqConstraints" : 1025, 
 						"optConstraints" : 258
 					}
 				 ], 
@@ -798,6 +830,10 @@
 						"reqConstraints" : 4, 
 						"optConstraints" : 256
 					}, {
+						"animation" : "UD_Struggle_Boots_Pair01_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 256
+					}, {
 						"animation" : "UD_Struggle_Boots_Pair01FC_A1", 
 						"reqConstraints" : 8, 
 						"optConstraints" : 256
@@ -851,6 +887,34 @@
 					}, {
 						"animation" : "UD_Struggle_Boots_Pair01BBY_A2", 
 						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 266
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01YH_A2", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01AH_A2", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01EH_A2", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01AH_A2", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01AH_A2", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01BBYH_A2", 
+						"reqConstraints" : 1025, 
 						"optConstraints" : 258
 					}
 				 ], 
@@ -3562,6 +3626,10 @@
 						"reqConstraints" : 4, 
 						"optConstraints" : 256
 					}, {
+						"animation" : "UD_Struggle_Boots_Pair01_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 256
+					}, {
 						"animation" : "UD_Struggle_Boots_Pair01FC_A1", 
 						"reqConstraints" : 8, 
 						"optConstraints" : 256
@@ -3615,6 +3683,34 @@
 					}, {
 						"animation" : "UD_Struggle_Boots_Pair01BBY_A2", 
 						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 266
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01YH_A2", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01AH_A2", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01EH_A2", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01AH_A2", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01AH_A2", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Boots_Pair01BBYH_A2", 
+						"reqConstraints" : 1025, 
 						"optConstraints" : 258
 					}
 				 ], 
