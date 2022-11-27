@@ -163,6 +163,10 @@
 			}, {
 				"A1" : [
 					{
+						"animation" : "UD_Struggle_Plug_Pair01_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 259
+					}, {
 						"animation" : "UD_Struggle_Plug_Pair01A_A1", 
 						"reqConstraints" : 16, 
 						"optConstraints" : 259
@@ -254,6 +258,10 @@
 			}, {
 				"A1" : [
 					{
+						"animation" : "UD_Struggle_Plug_Pair01_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 259
+					}, {
 						"animation" : "UD_Struggle_Plug_Pair01A_A1", 
 						"reqConstraints" : 16, 
 						"optConstraints" : 259
@@ -1014,12 +1022,12 @@
 			{
 				"A1" : [
 					{
-						"animation" : "UD_Struggle_Armb_Pair02A_A1", 
-						"reqConstraints" : 128, 
+						"animation" : "UD_Struggle_Armb_Pair02E_A1", 
+						"reqConstraints" : 32, 
 						"optConstraints" : 258
 					}, {
-						"animation" : "UD_Struggle_Armb_Pair02AH_A1", 
-						"reqConstraints" : 129, 
+						"animation" : "UD_Struggle_Armb_Pair02EH_A1", 
+						"reqConstraints" : 33, 
 						"optConstraints" : 258
 					}
 				 ], 
@@ -2097,12 +2105,12 @@
 			{
 				"A1" : [
 					{
-						"animation" : "UD_Struggle_Armb_Pair02E_A1", 
-						"reqConstraints" : 32, 
+						"animation" : "UD_Struggle_Armb_Pair02A_A1", 
+						"reqConstraints" : 128, 
 						"optConstraints" : 258
 					}, {
-						"animation" : "UD_Struggle_Armb_Pair02EH_A1", 
-						"reqConstraints" : 33, 
+						"animation" : "UD_Struggle_Armb_Pair02AH_A1", 
+						"reqConstraints" : 129, 
 						"optConstraints" : 258
 					}
 				 ], 
@@ -2593,6 +2601,10 @@
 			}, {
 				"A1" : [
 					{
+						"animation" : "UD_Struggle_Plug_Pair01_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 259
+					}, {
 						"animation" : "UD_Struggle_Plug_Pair01A_A1", 
 						"reqConstraints" : 16, 
 						"optConstraints" : 259
@@ -2670,6 +2682,10 @@
 			}, {
 				"A1" : [
 					{
+						"animation" : "UD_Struggle_Plug_Pair01_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 259
+					}, {
 						"animation" : "UD_Struggle_Plug_Pair01A_A1", 
 						"reqConstraints" : 16, 
 						"optConstraints" : 259
@@ -3222,6 +3238,10 @@
 			}, {
 				"A1" : [
 					{
+						"animation" : "UD_Struggle_Plug_Pair01_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 259
+					}, {
 						"animation" : "UD_Struggle_Plug_Pair01A_A1", 
 						"reqConstraints" : 16, 
 						"optConstraints" : 259
