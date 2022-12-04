@@ -341,6 +341,128 @@
 				"isSequence" : false, 
 				"lewd" : 0, 
 				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Chest_Pair04_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04H_A1", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04EH_A1", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04YH_A1", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBY_A1", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBYH_A1", 
+						"reqConstraints" : 1025, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Chest_Pair04_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04E_A2", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04EH_A2", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04Y_A2", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04YH_A2", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBY_A2", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBYH_A2", 
+						"reqConstraints" : 1025, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
 			}
 		], 
 		"zad_DeviousBra" : [
@@ -454,6 +576,128 @@
 					}, {
 						"animation" : "UD_Struggle_Chest_Pair02H_A2", 
 						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Chest_Pair04_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04H_A1", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04EH_A1", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04YH_A1", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBY_A1", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBYH_A1", 
+						"reqConstraints" : 1025, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Chest_Pair04_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04E_A2", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04EH_A2", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04Y_A2", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04YH_A2", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBY_A2", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBYH_A2", 
+						"reqConstraints" : 1025, 
 						"optConstraints" : 258
 					}
 				 ], 
@@ -1146,6 +1390,128 @@
 				"isSequence" : false, 
 				"lewd" : 0, 
 				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Chest_Pair04_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04H_A1", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04EH_A1", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04YH_A1", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBY_A1", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBYH_A1", 
+						"reqConstraints" : 1025, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Chest_Pair04_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04E_A2", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04EH_A2", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04Y_A2", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04YH_A2", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBY_A2", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBYH_A2", 
+						"reqConstraints" : 1025, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
 			}
 		], 
 		"zad_DeviousHobbleSkirtRelaxed" : [
@@ -1283,6 +1649,128 @@
 					}, {
 						"animation" : "UD_Struggle_Chest_Pair02H_A2", 
 						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Chest_Pair04_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04H_A1", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04EH_A1", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04YH_A1", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBY_A1", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBYH_A1", 
+						"reqConstraints" : 1025, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Chest_Pair04_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04E_A2", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04EH_A2", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04Y_A2", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04YH_A2", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBY_A2", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBYH_A2", 
+						"reqConstraints" : 1025, 
 						"optConstraints" : 258
 					}
 				 ], 
@@ -1544,6 +2032,128 @@
 				"isSequence" : false, 
 				"lewd" : 0, 
 				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Chest_Pair04_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04H_A1", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04EH_A1", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04YH_A1", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBY_A1", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBYH_A1", 
+						"reqConstraints" : 1025, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Chest_Pair04_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04E_A2", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04EH_A2", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04Y_A2", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04YH_A2", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBY_A2", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBYH_A2", 
+						"reqConstraints" : 1025, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
 			}
 		], 
 		"zad_DeviousClamps" : [
@@ -1643,6 +2253,128 @@
 					}, {
 						"animation" : "UD_Struggle_Chest_Pair02H_A2", 
 						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Chest_Pair04_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04H_A1", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04EH_A1", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04YH_A1", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBY_A1", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBYH_A1", 
+						"reqConstraints" : 1025, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Chest_Pair04_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04E_A2", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04EH_A2", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04Y_A2", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04YH_A2", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBY_A2", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBYH_A2", 
+						"reqConstraints" : 1025, 
 						"optConstraints" : 258
 					}
 				 ], 
@@ -2926,6 +3658,128 @@
 				"isSequence" : false, 
 				"lewd" : 0, 
 				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Chest_Pair04_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04H_A1", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04EH_A1", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04YH_A1", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBY_A1", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBYH_A1", 
+						"reqConstraints" : 1025, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Chest_Pair04_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04E_A2", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04EH_A2", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04Y_A2", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04YH_A2", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBY_A2", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBYH_A2", 
+						"reqConstraints" : 1025, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
 			}
 		], 
 		"zad_DeviousBlindfold" : [
@@ -3164,6 +4018,128 @@
 					}, {
 						"animation" : "UD_Struggle_Chest_Pair02H_A2", 
 						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Chest_Pair04_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04H_A1", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04EH_A1", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04YH_A1", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBY_A1", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBYH_A1", 
+						"reqConstraints" : 1025, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Chest_Pair04_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04E_A2", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04EH_A2", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04Y_A2", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04YH_A2", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBY_A2", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBYH_A2", 
+						"reqConstraints" : 1025, 
 						"optConstraints" : 258
 					}
 				 ], 
@@ -3980,6 +4956,128 @@
 						"animation" : "UD_Struggle_Yoke_Pair01H_A2", 
 						"reqConstraints" : 1, 
 						"optConstraints" : 266
+					}
+				 ], 
+				"isSequence" : false, 
+				"lewd" : 0, 
+				"aggressive" : 0
+			}, {
+				"A1" : [
+					{
+						"animation" : "UD_Struggle_Chest_Pair04_A1", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04H_A1", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A1", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A1", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04E_A1", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04EH_A1", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04Y_A1", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04YH_A1", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBY_A1", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBYH_A1", 
+						"reqConstraints" : 1025, 
+						"optConstraints" : 258
+					}
+				 ], 
+				"A2" : [
+					{
+						"animation" : "UD_Struggle_Chest_Pair04_A2", 
+						"reqConstraints" : 0, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04H_A2", 
+						"reqConstraints" : 1, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 16, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 17, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 128, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 129, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04A_A2", 
+						"reqConstraints" : 512, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04AH_A2", 
+						"reqConstraints" : 513, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04E_A2", 
+						"reqConstraints" : 32, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04EH_A2", 
+						"reqConstraints" : 33, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04Y_A2", 
+						"reqConstraints" : 4, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04YH_A2", 
+						"reqConstraints" : 5, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBY_A2", 
+						"reqConstraints" : 1024, 
+						"optConstraints" : 258
+					}, {
+						"animation" : "UD_Struggle_Chest_Pair04BBYH_A2", 
+						"reqConstraints" : 1025, 
+						"optConstraints" : 258
 					}
 				 ], 
 				"isSequence" : false, 
