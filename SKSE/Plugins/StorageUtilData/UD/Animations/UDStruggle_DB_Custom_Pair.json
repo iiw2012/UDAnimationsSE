@@ -1858,6 +1858,31 @@
 				 ],
 				"lewd" : 0,
 				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Struggle_Yoke_Pair02Y_A1", 
+						"req" : 4, 
+						"opt" : 256
+					}, {
+						"anim" : "UD_Struggle_Yoke_Pair02YH_A1", 
+						"req" : 5, 
+						"opt" : 256
+					}
+				 ],
+				"A2" : [
+					{
+						"anim" : "UD_Struggle_Yoke_Pair02Y_A2", 
+						"req" : 4, 
+						"opt" : 256
+					}, {
+						"anim" : "UD_Struggle_Yoke_Pair02YH_A2", 
+						"req" : 5, 
+						"opt" : 256
+					}
+				 ],
+				"lewd" : 0,
+				"aggr" : 0
 			}
 		], 
 		"zad_DeviousYokeBB" : [
