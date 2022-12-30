@@ -147,14 +147,14 @@
 		"zad_DeviousPetSuit" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit01", 
+					"anim" : "UD_Solo_Struggle_PetSuit01_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
 				"lewd" : 0 
 			}, {
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit02", 
+					"anim" : "UD_Solo_Struggle_PetSuit02_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -164,7 +164,7 @@
 		"zad_DeviousHood" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit01", 
+					"anim" : "UD_Solo_Struggle_PetSuit01_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -174,7 +174,7 @@
 		"zad_DeviousGag" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit01", 
+					"anim" : "UD_Solo_Struggle_PetSuit01_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -184,7 +184,7 @@
 		"zad_DeviousBlindfold" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit01", 
+					"anim" : "UD_Solo_Struggle_PetSuit01_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -194,7 +194,7 @@
 		"zad_DeviousCollar" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit01", 
+					"anim" : "UD_Solo_Struggle_PetSuit01_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -204,7 +204,7 @@
 		"zad_DeviousBra" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit01", 
+					"anim" : "UD_Solo_Struggle_PetSuit01_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -214,7 +214,7 @@
 		"zad_DeviousPiercingsNipple" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit01", 
+					"anim" : "UD_Solo_Struggle_PetSuit01_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -224,7 +224,7 @@
 		"zad_DeviousClamps" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit01", 
+					"anim" : "UD_Solo_Struggle_PetSuit01_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -234,16 +234,44 @@
 		"zad_DeviousCorset" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit01", 
+					"anim" : "UD_Solo_Struggle_PetSuit01_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
 				"lewd" : 0 
 			}, {
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit02", 
+					"anim" : "UD_Solo_Struggle_PetSuit02_P", 
 					"req" : 64, 
 					"opt" : 2304
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Corset01", 
+					"req" : 0, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Corset01_H", 
+					"req" : 1, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Corset01_F", 
+					"req" : 0, 
+					"opt" : 2314
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Corset01_FH", 
+					"req" : 1, 
+					"opt" : 2314
 				}, 
 				"lewd" : 0 
 			}
@@ -251,16 +279,44 @@
 		"zad_DeviousHarness" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit01", 
+					"anim" : "UD_Solo_Struggle_PetSuit01_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
 				"lewd" : 0 
 			}, {
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit02", 
+					"anim" : "UD_Solo_Struggle_PetSuit02_P", 
 					"req" : 64, 
 					"opt" : 2304
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Corset01", 
+					"req" : 0, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Corset01_H", 
+					"req" : 1, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Corset01_F", 
+					"req" : 0, 
+					"opt" : 2314
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Corset01_FH", 
+					"req" : 1, 
+					"opt" : 2314
 				}, 
 				"lewd" : 0 
 			}
@@ -268,16 +324,44 @@
 		"zad_DeviousSuit" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit01", 
+					"anim" : "UD_Solo_Struggle_PetSuit01_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
 				"lewd" : 0 
 			}, {
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit02", 
+					"anim" : "UD_Solo_Struggle_PetSuit02_P", 
 					"req" : 64, 
 					"opt" : 2304
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Corset01", 
+					"req" : 0, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Corset01_H", 
+					"req" : 1, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Corset01_F", 
+					"req" : 0, 
+					"opt" : 2314
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Corset01_FH", 
+					"req" : 1, 
+					"opt" : 2314
 				}, 
 				"lewd" : 0 
 			}
@@ -285,7 +369,7 @@
 		"zad_DeviousBelt" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit02", 
+					"anim" : "UD_Solo_Struggle_PetSuit02_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -295,7 +379,7 @@
 		"zad_DeviousPlug" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit02", 
+					"anim" : "UD_Solo_Struggle_PetSuit02_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -305,7 +389,7 @@
 		"zad_DeviousPlugVaginal" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit02", 
+					"anim" : "UD_Solo_Struggle_PetSuit02_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -315,7 +399,7 @@
 		"zad_DeviousPlugAnal" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit02", 
+					"anim" : "UD_Solo_Struggle_PetSuit02_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -325,7 +409,7 @@
 		"zad_DeviousPiercingsVaginal" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit02", 
+					"anim" : "UD_Solo_Struggle_PetSuit02_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -335,7 +419,7 @@
 		"zad_DeviousBondageMittens" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit01", 
+					"anim" : "UD_Solo_Struggle_PetSuit01_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -345,7 +429,7 @@
 		"zad_DeviousArmCuffs" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit01", 
+					"anim" : "UD_Solo_Struggle_PetSuit01_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -355,7 +439,7 @@
 		"zad_DeviousGloves" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit01", 
+					"anim" : "UD_Solo_Struggle_PetSuit01_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -365,7 +449,7 @@
 		"zad_DeviousBoots" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit02", 
+					"anim" : "UD_Solo_Struggle_PetSuit02_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -375,7 +459,7 @@
 		"zad_DeviousLegCuffs" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit02", 
+					"anim" : "UD_Solo_Struggle_PetSuit02_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -385,14 +469,14 @@
 		"horny" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit02", 
+					"anim" : "UD_Solo_Struggle_PetSuit02_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
 				"lewd" : 0 
 			}, {
 				"A1" : {
-					"anim" : "UD_Solo_Horny_PetSuit01", 
+					"anim" : "UD_Solo_Horny_PetSuit01_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -402,14 +486,14 @@
 		"edged" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Struggle_PetSuit02", 
+					"anim" : "UD_Solo_Struggle_PetSuit02_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
 				"lewd" : 0 
 			}, {
 				"A1" : {
-					"anim" : "UD_Solo_Horny_PetSuit01", 
+					"anim" : "UD_Solo_Horny_PetSuit01_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -419,7 +503,7 @@
 		"orgasm" : [
 			{
 				"A1" : {
-					"anim" : "UD_Solo_Orgasm_PetSuit01", 
+					"anim" : "UD_Solo_Orgasm_PetSuit01_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
