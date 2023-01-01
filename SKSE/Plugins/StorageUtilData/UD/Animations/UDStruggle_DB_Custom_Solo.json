@@ -509,6 +509,23 @@
 				}, 
 				"lewd" : 0 
 			}
+		], 
+		"spectator" : [
+			{
+				"A1" : {
+					"anim" : "UD_Solo_Spectator_Casual01", 
+					"req" : 0, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Spectator_Casual01_H", 
+					"req" : 1, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
+			}
 		]
 	}
 }

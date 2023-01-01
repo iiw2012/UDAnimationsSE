@@ -14,3 +14,5 @@ b UD_Solo_Struggle_Corset01 UD_Solo_Struggle_Corset01.hkx
 b UD_Solo_Struggle_Corset01_H UD_Solo_Struggle_Corset01_H.hkx
 b UD_Solo_Struggle_Corset01_F UD_Solo_Struggle_Corset01_F.hkx
 b UD_Solo_Struggle_Corset01_FH UD_Solo_Struggle_Corset01_FH.hkx
+b UD_Solo_Spectator_Casual01 UD_Solo_Spectator_Casual01.hkx
+b UD_Solo_Spectator_Casual01_H UD_Solo_Spectator_Casual01_H.hkx
