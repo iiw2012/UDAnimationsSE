@@ -846,6 +846,31 @@
 				 ],
 				"lewd" : 0,
 				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Pair_Struggle_Neck02_A1_Y", 
+						"req" : 4, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_YH", 
+						"req" : 5, 
+						"opt" : 2306
+					}
+				 ],
+				"A2" : [
+					{
+						"anim" : "UD_Pair_Struggle_Neck02_A2", 
+						"req" : 0, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A2_H", 
+						"req" : 1, 
+						"opt" : 2306
+					}
+				 ],
+				"lewd" : 0,
+				"aggr" : 0
 			}
 		], 
 		"zad_DeviousYokeBB" : [
@@ -1101,6 +1126,185 @@
 				 ],
 				"lewd" : 0,
 				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Pair_Struggle_Head02_A1", 
+						"req" : 0, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_H", 
+						"req" : 1, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_A", 
+						"req" : 16, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_AH", 
+						"req" : 17, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_A", 
+						"req" : 512, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_AH", 
+						"req" : 513, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_B", 
+						"req" : 1024, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_BH", 
+						"req" : 1025, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_E", 
+						"req" : 32, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_EH", 
+						"req" : 33, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_F", 
+						"req" : 8, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_FH", 
+						"req" : 9, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_T", 
+						"req" : 128, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_TH", 
+						"req" : 129, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_Y", 
+						"req" : 4, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_YH", 
+						"req" : 5, 
+						"opt" : 2306
+					}
+				 ],
+				"A2" : [
+					{
+						"anim" : "UD_Pair_Struggle_Head02_A2", 
+						"req" : 0, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A2_H", 
+						"req" : 1, 
+						"opt" : 2306
+					}
+				 ],
+				"lewd" : 0,
+				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Pair_Struggle_Neck02_A1", 
+						"req" : 0, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_H", 
+						"req" : 1, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_A", 
+						"req" : 16, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_AH", 
+						"req" : 17, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_A", 
+						"req" : 512, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_AH", 
+						"req" : 513, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_B", 
+						"req" : 1024, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_BH", 
+						"req" : 1025, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_E", 
+						"req" : 32, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_EH", 
+						"req" : 33, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_F", 
+						"req" : 8, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_FH", 
+						"req" : 9, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_T", 
+						"req" : 128, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_TH", 
+						"req" : 129, 
+						"opt" : 2306
+					}
+				 ],
+				"A2" : [
+					{
+						"anim" : "UD_Pair_Struggle_Neck02_A2", 
+						"req" : 0, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A2_H", 
+						"req" : 1, 
+						"opt" : 2306
+					}
+				 ],
+				"lewd" : 0,
+				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Pair_Struggle_Neck02_A1_Y", 
+						"req" : 4, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_YH", 
+						"req" : 5, 
+						"opt" : 2306
+					}
+				 ],
+				"A2" : [
+					{
+						"anim" : "UD_Pair_Struggle_Neck02_A2", 
+						"req" : 0, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A2_H", 
+						"req" : 1, 
+						"opt" : 2306
+					}
+				 ],
+				"lewd" : 0,
+				"aggr" : 0
 			}
 		], 
 		"zad_DeviousGag" : [
@@ -1219,6 +1423,87 @@
 						"anim" : "UD_Pair_Struggle_Head01_A2_H", 
 						"req" : 1, 
 						"opt" : 2314
+					}
+				 ],
+				"lewd" : 0,
+				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Pair_Struggle_Head02_A1", 
+						"req" : 0, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_H", 
+						"req" : 1, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_A", 
+						"req" : 16, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_AH", 
+						"req" : 17, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_A", 
+						"req" : 512, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_AH", 
+						"req" : 513, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_B", 
+						"req" : 1024, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_BH", 
+						"req" : 1025, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_E", 
+						"req" : 32, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_EH", 
+						"req" : 33, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_F", 
+						"req" : 8, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_FH", 
+						"req" : 9, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_T", 
+						"req" : 128, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_TH", 
+						"req" : 129, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_Y", 
+						"req" : 4, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_YH", 
+						"req" : 5, 
+						"opt" : 2306
+					}
+				 ],
+				"A2" : [
+					{
+						"anim" : "UD_Pair_Struggle_Head02_A2", 
+						"req" : 0, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A2_H", 
+						"req" : 1, 
+						"opt" : 2306
 					}
 				 ],
 				"lewd" : 0,
@@ -1345,6 +1630,87 @@
 				 ],
 				"lewd" : 0,
 				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Pair_Struggle_Head02_A1", 
+						"req" : 0, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_H", 
+						"req" : 1, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_A", 
+						"req" : 16, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_AH", 
+						"req" : 17, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_A", 
+						"req" : 512, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_AH", 
+						"req" : 513, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_B", 
+						"req" : 1024, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_BH", 
+						"req" : 1025, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_E", 
+						"req" : 32, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_EH", 
+						"req" : 33, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_F", 
+						"req" : 8, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_FH", 
+						"req" : 9, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_T", 
+						"req" : 128, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_TH", 
+						"req" : 129, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_Y", 
+						"req" : 4, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A1_YH", 
+						"req" : 5, 
+						"opt" : 2306
+					}
+				 ],
+				"A2" : [
+					{
+						"anim" : "UD_Pair_Struggle_Head02_A2", 
+						"req" : 0, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Head02_A2_H", 
+						"req" : 1, 
+						"opt" : 2306
+					}
+				 ],
+				"lewd" : 0,
+				"aggr" : 0
 			}
 		], 
 		"zad_DeviousCollar" : [
@@ -1427,6 +1793,104 @@
 						"anim" : "UD_Pair_Struggle_Neck01_A2_H", 
 						"req" : 1, 
 						"opt" : 2314
+					}
+				 ],
+				"lewd" : 0,
+				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Pair_Struggle_Neck02_A1", 
+						"req" : 0, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_H", 
+						"req" : 1, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_A", 
+						"req" : 16, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_AH", 
+						"req" : 17, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_A", 
+						"req" : 512, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_AH", 
+						"req" : 513, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_B", 
+						"req" : 1024, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_BH", 
+						"req" : 1025, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_E", 
+						"req" : 32, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_EH", 
+						"req" : 33, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_F", 
+						"req" : 8, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_FH", 
+						"req" : 9, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_T", 
+						"req" : 128, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_TH", 
+						"req" : 129, 
+						"opt" : 2306
+					}
+				 ],
+				"A2" : [
+					{
+						"anim" : "UD_Pair_Struggle_Neck02_A2", 
+						"req" : 0, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A2_H", 
+						"req" : 1, 
+						"opt" : 2306
+					}
+				 ],
+				"lewd" : 0,
+				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Pair_Struggle_Neck02_A1_Y", 
+						"req" : 4, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A1_YH", 
+						"req" : 5, 
+						"opt" : 2306
+					}
+				 ],
+				"A2" : [
+					{
+						"anim" : "UD_Pair_Struggle_Neck02_A2", 
+						"req" : 0, 
+						"opt" : 2306
+					}, {
+						"anim" : "UD_Pair_Struggle_Neck02_A2_H", 
+						"req" : 1, 
+						"opt" : 2306
 					}
 				 ],
 				"lewd" : 0,
@@ -2997,70 +3461,6 @@
 						"req" : 0, 
 						"opt" : 2304
 					},
-				"lewd" : 0,
-				"aggr" : 0
-			}, {
-				"A1" : [
-					{
-						"anim" : "UD_Pair_Struggle_Neck01_A1", 
-						"req" : 0, 
-						"opt" : 2307
-					}, {
-						"anim" : "UD_Pair_Struggle_Neck01_A1_A", 
-						"req" : 16, 
-						"opt" : 2307
-					}, {
-						"anim" : "UD_Pair_Struggle_Neck01_A1_A", 
-						"req" : 128, 
-						"opt" : 2307
-					}, {
-						"anim" : "UD_Pair_Struggle_Neck01_A1_A", 
-						"req" : 512, 
-						"opt" : 2307
-					}, {
-						"anim" : "UD_Pair_Struggle_Neck01_A1_F", 
-						"req" : 8, 
-						"opt" : 2307
-					}, {
-						"anim" : "UD_Pair_Struggle_Neck01_A1_E", 
-						"req" : 32, 
-						"opt" : 2307
-					}, {
-						"anim" : "UD_Pair_Struggle_Neck01_A1_B", 
-						"req" : 1024, 
-						"opt" : 2307
-					}
-				 ],
-				"A2" : [
-					{
-						"anim" : "UD_Pair_Struggle_Neck01_A2", 
-						"req" : 0, 
-						"opt" : 2314
-					}, {
-						"anim" : "UD_Pair_Struggle_Neck01_A2_H", 
-						"req" : 1, 
-						"opt" : 2314
-					}
-				 ],
-				"lewd" : 0,
-				"aggr" : 0
-			}, {
-				"A1" : {
-						"anim" : "UD_Pair_Struggle_Neck01_A1_Y", 
-						"req" : 4, 
-						"opt" : 2307
-					},
-				"A2" : [
-					{
-						"anim" : "UD_Pair_Struggle_Neck01_A2", 
-						"req" : 0, 
-						"opt" : 2314
-					}, {
-						"anim" : "UD_Pair_Struggle_Neck01_A2_H", 
-						"req" : 1, 
-						"opt" : 2314
-					}
-				 ],
 				"lewd" : 0,
 				"aggr" : 0
 			}, {
