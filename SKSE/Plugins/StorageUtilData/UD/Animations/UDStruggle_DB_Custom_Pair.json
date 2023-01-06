@@ -22,6 +22,49 @@
 				 ],
 				"lewd" : 0,
 				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Pair_Struggle_Boots02_A1", 
+						"req" : 0, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_A", 
+						"req" : 16, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_A", 
+						"req" : 512, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_B", 
+						"req" : 1024, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_E", 
+						"req" : 32, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_F", 
+						"req" : 8, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_T", 
+						"req" : 128, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_Y", 
+						"req" : 4, 
+						"opt" : 2307
+					}
+				 ],
+				"A2" : {
+						"anim" : "UD_Pair_Struggle_Boots02_A2", 
+						"req" : 0, 
+						"opt" : 2315
+					},
+				"lewd" : 0,
+				"aggr" : 0
 			}
 		], 
 		"zad_DeviousHobbleSkirtRelaxed" : [
@@ -211,6 +254,49 @@
 						"opt" : 2306
 					}
 				 ],
+				"lewd" : 0,
+				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Pair_Struggle_Boots02_A1", 
+						"req" : 0, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_A", 
+						"req" : 16, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_A", 
+						"req" : 512, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_B", 
+						"req" : 1024, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_E", 
+						"req" : 32, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_F", 
+						"req" : 8, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_T", 
+						"req" : 128, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_Y", 
+						"req" : 4, 
+						"opt" : 2307
+					}
+				 ],
+				"A2" : {
+						"anim" : "UD_Pair_Struggle_Boots02_A2", 
+						"req" : 0, 
+						"opt" : 2315
+					},
 				"lewd" : 0,
 				"aggr" : 0
 			}
@@ -4818,6 +4904,49 @@
 				 ],
 				"lewd" : 0,
 				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Pair_Struggle_Boots02_A1", 
+						"req" : 0, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_A", 
+						"req" : 16, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_A", 
+						"req" : 512, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_B", 
+						"req" : 1024, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_E", 
+						"req" : 32, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_F", 
+						"req" : 8, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_T", 
+						"req" : 128, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_Y", 
+						"req" : 4, 
+						"opt" : 2307
+					}
+				 ],
+				"A2" : {
+						"anim" : "UD_Pair_Struggle_Boots02_A2", 
+						"req" : 0, 
+						"opt" : 2315
+					},
+				"lewd" : 0,
+				"aggr" : 0
 			}
 		], 
 		"zad_DeviousLegCuffs" : [
@@ -4935,6 +5064,49 @@
 						"opt" : 258
 					}
 				 ],
+				"lewd" : 0,
+				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Pair_Struggle_Boots02_A1", 
+						"req" : 0, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_A", 
+						"req" : 16, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_A", 
+						"req" : 512, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_B", 
+						"req" : 1024, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_E", 
+						"req" : 32, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_F", 
+						"req" : 8, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_T", 
+						"req" : 128, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Boots02_A1_Y", 
+						"req" : 4, 
+						"opt" : 2307
+					}
+				 ],
+				"A2" : {
+						"anim" : "UD_Pair_Struggle_Boots02_A2", 
+						"req" : 0, 
+						"opt" : 2315
+					},
 				"lewd" : 0,
 				"aggr" : 0
 			}
