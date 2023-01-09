@@ -3,7 +3,14 @@
 	},
 	"solo" : {
 		"zad_DeviousAnkleShackles" : [
-			
+			{
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Boots01_H", 
+					"req" : 0, 
+					"opt" : 2315
+				}, 
+				"lewd" : 0 
+			}
 		], 
 		"zad_DeviousHobbleSkirtRelaxed" : [
 			{
@@ -121,6 +128,13 @@
 					"opt" : 2306
 				}, 
 				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Boots01_H", 
+					"req" : 0, 
+					"opt" : 2315
+				}, 
+				"lewd" : 0 
 			}
 		], 
 		"zad_DeviousCuffsFront" : [
@@ -159,12 +173,26 @@
 					"opt" : 2304
 				}, 
 				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_PetSuit03_P", 
+					"req" : 64, 
+					"opt" : 2304
+				}, 
+				"lewd" : 0 
 			}
 		], 
 		"zad_DeviousHood" : [
 			{
 				"A1" : {
 					"anim" : "UD_Solo_Struggle_PetSuit01_P", 
+					"req" : 64, 
+					"opt" : 2304
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_PetSuit03_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -179,6 +207,13 @@
 					"opt" : 2304
 				}, 
 				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_PetSuit03_P", 
+					"req" : 64, 
+					"opt" : 2304
+				}, 
+				"lewd" : 0 
 			}
 		], 
 		"zad_DeviousBlindfold" : [
@@ -189,12 +224,26 @@
 					"opt" : 2304
 				}, 
 				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_PetSuit03_P", 
+					"req" : 64, 
+					"opt" : 2304
+				}, 
+				"lewd" : 0 
 			}
 		], 
 		"zad_DeviousCollar" : [
 			{
 				"A1" : {
 					"anim" : "UD_Solo_Struggle_PetSuit01_P", 
+					"req" : 64, 
+					"opt" : 2304
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_PetSuit03_P", 
 					"req" : 64, 
 					"opt" : 2304
 				}, 
@@ -454,6 +503,13 @@
 					"opt" : 2304
 				}, 
 				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Boots01_H", 
+					"req" : 0, 
+					"opt" : 2315
+				}, 
+				"lewd" : 0 
 			}
 		], 
 		"zad_DeviousLegCuffs" : [
@@ -462,6 +518,13 @@
 					"anim" : "UD_Solo_Struggle_PetSuit02_P", 
 					"req" : 64, 
 					"opt" : 2304
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Boots01_H", 
+					"req" : 0, 
+					"opt" : 2315
 				}, 
 				"lewd" : 0 
 			}
