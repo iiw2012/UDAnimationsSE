@@ -413,6 +413,20 @@
 					"opt" : 2314
 				}, 
 				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Arms01", 
+					"req" : 0, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Arms01_H", 
+					"req" : 1, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
 			}
 		], 
 		"zad_DeviousBelt" : [
@@ -421,6 +435,13 @@
 					"anim" : "UD_Solo_Struggle_PetSuit02_P", 
 					"req" : 64, 
 					"opt" : 2304
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Plug01", 
+					"req" : 0, 
+					"opt" : 2307
 				}, 
 				"lewd" : 0 
 			}
@@ -433,6 +454,13 @@
 					"opt" : 2304
 				}, 
 				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Plug01", 
+					"req" : 0, 
+					"opt" : 2307
+				}, 
+				"lewd" : 0 
 			}
 		], 
 		"zad_DeviousPlugVaginal" : [
@@ -441,6 +469,13 @@
 					"anim" : "UD_Solo_Struggle_PetSuit02_P", 
 					"req" : 64, 
 					"opt" : 2304
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Plug01", 
+					"req" : 0, 
+					"opt" : 2307
 				}, 
 				"lewd" : 0 
 			}
@@ -453,6 +488,13 @@
 					"opt" : 2304
 				}, 
 				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Plug01", 
+					"req" : 0, 
+					"opt" : 2307
+				}, 
+				"lewd" : 0 
 			}
 		], 
 		"zad_DeviousPiercingsVaginal" : [
@@ -461,6 +503,13 @@
 					"anim" : "UD_Solo_Struggle_PetSuit02_P", 
 					"req" : 64, 
 					"opt" : 2304
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Plug01", 
+					"req" : 0, 
+					"opt" : 2307
 				}, 
 				"lewd" : 0 
 			}
@@ -473,6 +522,20 @@
 					"opt" : 2304
 				}, 
 				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Arms01", 
+					"req" : 0, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Arms01_H", 
+					"req" : 1, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
 			}
 		], 
 		"zad_DeviousArmCuffs" : [
@@ -483,6 +546,20 @@
 					"opt" : 2304
 				}, 
 				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Arms01", 
+					"req" : 0, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Arms01_H", 
+					"req" : 1, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
 			}
 		], 
 		"zad_DeviousGloves" : [
@@ -491,6 +568,20 @@
 					"anim" : "UD_Solo_Struggle_PetSuit01_P", 
 					"req" : 64, 
 					"opt" : 2304
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Arms01", 
+					"req" : 0, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Arms01_H", 
+					"req" : 1, 
+					"opt" : 2306
 				}, 
 				"lewd" : 0 
 			}
