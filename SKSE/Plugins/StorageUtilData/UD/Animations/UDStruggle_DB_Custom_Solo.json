@@ -150,7 +150,21 @@
 			
 		], 
 		"zad_DeviousStraitJacket" : [
-			
+			{
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Chest01", 
+					"req" : 512, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Chest01_H", 
+					"req" : 513, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
+			}
 		], 
 		"zad_DeviousYoke" : [
 			
@@ -195,6 +209,20 @@
 					"anim" : "UD_Solo_Struggle_PetSuit03_P", 
 					"req" : 64, 
 					"opt" : 2304
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Collar01", 
+					"req" : 0, 
+					"opt" : 2314
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Collar01_H", 
+					"req" : 1, 
+					"opt" : 2314
 				}, 
 				"lewd" : 0 
 			}
@@ -248,6 +276,20 @@
 					"opt" : 2304
 				}, 
 				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Collar01", 
+					"req" : 0, 
+					"opt" : 2314
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Collar01_H", 
+					"req" : 1, 
+					"opt" : 2314
+				}, 
+				"lewd" : 0 
 			}
 		], 
 		"zad_DeviousBra" : [
@@ -256,6 +298,20 @@
 					"anim" : "UD_Solo_Struggle_PetSuit01_P", 
 					"req" : 64, 
 					"opt" : 2304
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Chest01", 
+					"req" : 0, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Chest01_H", 
+					"req" : 1, 
+					"opt" : 2306
 				}, 
 				"lewd" : 0 
 			}
@@ -368,6 +424,20 @@
 					"opt" : 2314
 				}, 
 				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Chest01", 
+					"req" : 0, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Chest01_H", 
+					"req" : 1, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
 			}
 		], 
 		"zad_DeviousSuit" : [
@@ -423,6 +493,20 @@
 			}, {
 				"A1" : {
 					"anim" : "UD_Solo_Struggle_Arms01_H", 
+					"req" : 1, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Chest01", 
+					"req" : 0, 
+					"opt" : 2306
+				}, 
+				"lewd" : 0 
+			}, {
+				"A1" : {
+					"anim" : "UD_Solo_Struggle_Chest01_H", 
 					"req" : 1, 
 					"opt" : 2306
 				}, 
