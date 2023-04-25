@@ -658,6 +658,33 @@
 				 ],
 				"lewd" : 0,
 				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_A", 
+						"req" : 16, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_A", 
+						"req" : 512, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_E", 
+						"req" : 32, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_T", 
+						"req" : 128, 
+						"opt" : 2307
+					}
+				 ],
+				"A2" : {
+						"anim" : "UD_Pair_Struggle_Heavy01_A2_P", 
+						"req" : 64, 
+						"opt" : 2304
+					},
+				"lewd" : 0,
+				"aggr" : 0
 			}
 		], 
 		"zad_DeviousArmbinderElbow" : [
@@ -759,6 +786,33 @@
 				 ],
 				"lewd" : 0,
 				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_A", 
+						"req" : 16, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_A", 
+						"req" : 512, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_E", 
+						"req" : 32, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_T", 
+						"req" : 128, 
+						"opt" : 2307
+					}
+				 ],
+				"A2" : {
+						"anim" : "UD_Pair_Struggle_Heavy01_A2_P", 
+						"req" : 64, 
+						"opt" : 2304
+					},
+				"lewd" : 0,
+				"aggr" : 0
 			}
 		], 
 		"zad_DeviousElbowTie" : [
@@ -842,6 +896,33 @@
 						"opt" : 2306
 					}
 				 ],
+				"lewd" : 0,
+				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_A", 
+						"req" : 16, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_A", 
+						"req" : 512, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_E", 
+						"req" : 32, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_T", 
+						"req" : 128, 
+						"opt" : 2307
+					}
+				 ],
+				"A2" : {
+						"anim" : "UD_Pair_Struggle_Heavy01_A2_P", 
+						"req" : 64, 
+						"opt" : 2304
+					},
 				"lewd" : 0,
 				"aggr" : 0
 			}
@@ -1082,6 +1163,33 @@
 				 ],
 				"lewd" : 0,
 				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_A", 
+						"req" : 16, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_A", 
+						"req" : 512, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_E", 
+						"req" : 32, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_T", 
+						"req" : 128, 
+						"opt" : 2307
+					}
+				 ],
+				"A2" : {
+						"anim" : "UD_Pair_Struggle_Heavy01_A2_P", 
+						"req" : 64, 
+						"opt" : 2304
+					},
+				"lewd" : 0,
+				"aggr" : 0
 			}
 		], 
 		"zad_DeviousYoke" : [
@@ -1246,6 +1354,19 @@
 						"opt" : 2314
 					}
 				 ],
+				"lewd" : 0,
+				"aggr" : 0
+			}, {
+				"A1" : {
+						"anim" : "UD_Pair_Struggle_Petsuit01_A1_P", 
+						"req" : 64, 
+						"opt" : 2304
+					},
+				"A2" : {
+						"anim" : "UD_Pair_Struggle_Petsuit01_A2_P", 
+						"req" : 64, 
+						"opt" : 2304
+					},
 				"lewd" : 0,
 				"aggr" : 0
 			}
@@ -2464,6 +2585,46 @@
 				 ],
 				"lewd" : 0,
 				"aggr" : 0
+			}, {
+				"A1" : {
+						"anim" : "UD_Pair_Struggle_Petsuit01_A1_P", 
+						"req" : 64, 
+						"opt" : 2304
+					},
+				"A2" : {
+						"anim" : "UD_Pair_Struggle_Petsuit01_A2_P", 
+						"req" : 64, 
+						"opt" : 2304
+					},
+				"lewd" : 0,
+				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_A", 
+						"req" : 16, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_A", 
+						"req" : 512, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_E", 
+						"req" : 32, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_T", 
+						"req" : 128, 
+						"opt" : 2307
+					}
+				 ],
+				"A2" : {
+						"anim" : "UD_Pair_Struggle_Heavy01_A2_P", 
+						"req" : 64, 
+						"opt" : 2304
+					},
+				"lewd" : 0,
+				"aggr" : 0
 			}
 		], 
 		"zad_DeviousPiercingsNipple" : [
@@ -3069,6 +3230,46 @@
 						"opt" : 2306
 					}
 				 ],
+				"lewd" : 0,
+				"aggr" : 0
+			}, {
+				"A1" : {
+						"anim" : "UD_Pair_Struggle_Petsuit01_A1_P", 
+						"req" : 64, 
+						"opt" : 2304
+					},
+				"A2" : {
+						"anim" : "UD_Pair_Struggle_Petsuit01_A2_P", 
+						"req" : 64, 
+						"opt" : 2304
+					},
+				"lewd" : 0,
+				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_A", 
+						"req" : 16, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_A", 
+						"req" : 512, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_E", 
+						"req" : 32, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_T", 
+						"req" : 128, 
+						"opt" : 2307
+					}
+				 ],
+				"A2" : {
+						"anim" : "UD_Pair_Struggle_Heavy01_A2_P", 
+						"req" : 64, 
+						"opt" : 2304
+					},
 				"lewd" : 0,
 				"aggr" : 0
 			}
@@ -3742,6 +3943,46 @@
 						"opt" : 2306
 					}
 				 ],
+				"lewd" : 0,
+				"aggr" : 0
+			}, {
+				"A1" : {
+						"anim" : "UD_Pair_Struggle_Petsuit01_A1_P", 
+						"req" : 64, 
+						"opt" : 2304
+					},
+				"A2" : {
+						"anim" : "UD_Pair_Struggle_Petsuit01_A2_P", 
+						"req" : 64, 
+						"opt" : 2304
+					},
+				"lewd" : 0,
+				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_A", 
+						"req" : 16, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_A", 
+						"req" : 512, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_E", 
+						"req" : 32, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_T", 
+						"req" : 128, 
+						"opt" : 2307
+					}
+				 ],
+				"A2" : {
+						"anim" : "UD_Pair_Struggle_Heavy01_A2_P", 
+						"req" : 64, 
+						"opt" : 2304
+					},
 				"lewd" : 0,
 				"aggr" : 0
 			}
@@ -4608,6 +4849,46 @@
 						"opt" : 2306
 					}
 				 ],
+				"lewd" : 0,
+				"aggr" : 0
+			}, {
+				"A1" : {
+						"anim" : "UD_Pair_Struggle_Petsuit01_A1_P", 
+						"req" : 64, 
+						"opt" : 2304
+					},
+				"A2" : {
+						"anim" : "UD_Pair_Struggle_Petsuit01_A2_P", 
+						"req" : 64, 
+						"opt" : 2304
+					},
+				"lewd" : 0,
+				"aggr" : 0
+			}, {
+				"A1" : [
+					{
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_A", 
+						"req" : 16, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_A", 
+						"req" : 512, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_E", 
+						"req" : 32, 
+						"opt" : 2307
+					}, {
+						"anim" : "UD_Pair_Struggle_Heavy01_A1_T", 
+						"req" : 128, 
+						"opt" : 2307
+					}
+				 ],
+				"A2" : {
+						"anim" : "UD_Pair_Struggle_Heavy01_A2_P", 
+						"req" : 64, 
+						"opt" : 2304
+					},
 				"lewd" : 0,
 				"aggr" : 0
 			}
