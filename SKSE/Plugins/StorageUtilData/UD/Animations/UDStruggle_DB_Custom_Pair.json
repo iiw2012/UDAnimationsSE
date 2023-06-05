@@ -492,11 +492,11 @@
 						"opt" : 2307
 					}, {
 						"anim" : "UD_Pair_Struggle_Plug02_A1_T", 
-						"req" : 64, 
+						"req" : 128, 
 						"opt" : 2304
 					}, {
 						"anim" : "UD_Pair_Struggle_Plug02_A1_TH", 
-						"req" : 65, 
+						"req" : 129, 
 						"opt" : 2306
 					}, {
 						"anim" : "UD_Pair_Struggle_Plug02_A1_Y", 
@@ -3203,11 +3203,11 @@
 						"opt" : 2307
 					}, {
 						"anim" : "UD_Pair_Struggle_Plug02_A1_T", 
-						"req" : 64, 
+						"req" : 128, 
 						"opt" : 2304
 					}, {
 						"anim" : "UD_Pair_Struggle_Plug02_A1_TH", 
-						"req" : 65, 
+						"req" : 129, 
 						"opt" : 2306
 					}, {
 						"anim" : "UD_Pair_Struggle_Plug02_A1_Y", 
@@ -3916,11 +3916,11 @@
 						"opt" : 2307
 					}, {
 						"anim" : "UD_Pair_Struggle_Plug02_A1_T", 
-						"req" : 64, 
+						"req" : 128, 
 						"opt" : 2304
 					}, {
 						"anim" : "UD_Pair_Struggle_Plug02_A1_TH", 
-						"req" : 65, 
+						"req" : 129, 
 						"opt" : 2306
 					}, {
 						"anim" : "UD_Pair_Struggle_Plug02_A1_Y", 
@@ -4822,11 +4822,11 @@
 						"opt" : 2307
 					}, {
 						"anim" : "UD_Pair_Struggle_Plug02_A1_T", 
-						"req" : 64, 
+						"req" : 128, 
 						"opt" : 2304
 					}, {
 						"anim" : "UD_Pair_Struggle_Plug02_A1_TH", 
-						"req" : 65, 
+						"req" : 129, 
 						"opt" : 2306
 					}, {
 						"anim" : "UD_Pair_Struggle_Plug02_A1_Y", 
@@ -5307,11 +5307,11 @@
 						"opt" : 2307
 					}, {
 						"anim" : "UD_Pair_Struggle_Plug02_A1_T", 
-						"req" : 64, 
+						"req" : 128, 
 						"opt" : 2304
 					}, {
 						"anim" : "UD_Pair_Struggle_Plug02_A1_TH", 
-						"req" : 65, 
+						"req" : 129, 
 						"opt" : 2306
 					}, {
 						"anim" : "UD_Pair_Struggle_Plug02_A1_Y", 
